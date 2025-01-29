@@ -19,7 +19,7 @@ En este apartado vamos a instalar **Jupyter** y configurar un contenedor Docker 
 2. Instalamos **Jupyter**:
 
 ```bash
-sudo apt install jupyter-
+sudo apt install jupyter-notebook
 ```
 
 <p>

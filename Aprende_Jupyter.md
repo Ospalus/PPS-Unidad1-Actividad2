@@ -107,3 +107,22 @@ Tambien tenemos la llamada a la función principal:
 <div style="text-align: center;">
   <img src="imagenes\17.png" alt="Config Nano">
 </div>
+
+Y si ejecutamos el código podremos hacer una prueba. Probaremos con dos números, 5 y 8. Elegimos la división:
+
+<div style="text-align: center;">
+  <img src="imagenes\18.png" alt="Config Nano">
+</div>
+
+Ahora vamos a probar a introducir dos letras, la p y la l. Así estaremos comprobando si funciona la función **is number**. Como podemos observar en la siguiente imagen, funciona perfectamente y nos dice que eso no son números:
+
+<div style="text-align: center;">
+  <img src="imagenes\19.png" alt="Config Nano">
+</div>
+Y ahora vamos a probar a introducir dos números 0. A ver si funciona la función **MayorCero**:
+
+<div style="text-align: center;">
+  <img src="imagenes\20.png" alt="Config Nano">
+</div>
+
+Ya tenemos nuestro código. Es sencillo y podríamos implementarle algunas mejoras. Lo veremos más adelante en la siguiente práctica.
