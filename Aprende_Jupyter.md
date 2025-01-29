@@ -50,4 +50,60 @@ Este es un campo en formato Markdown para documentar el código.
 <div style="text-align: center;">
   <img src="imagenes\9.png" alt="Config Nano">
 </div>
-Ahora vamos a realizar el 
+Ahora vamos a realizar el código de la calculadora con las funciones pedidas:
+
+## Funciones:
+
+1. **Suma**: Suma de dos números.
+2. **Resta**: Resta de dos números.
+3. **Multiplicación**: Multiplicación de dos números.
+4. **División**: División de dos números.
+5. **isNumber**: Verifica si un valor es un número.
+6. **MayorCero**: Verifica si un número es mayor que cero.
+
+
+<div style="text-align: center;">
+  <img src="imagenes\10.png" alt="Config Nano">
+</div>
+
+1. Suma:
+
+<div style="text-align: center;">
+  <img src="imagenes\11.png" alt="Config Nano">
+</div>
+
+2. Resta:
+
+<div style="text-align: center;">
+  <img src="imagenes\12.png" alt="Config Nano">
+</div>
+
+3. Multiplicación:
+
+<div style="text-align: center;">
+  <img src="imagenes\13.png" alt="Config Nano">
+</div>
+
+4. División:
+
+<div style="text-align: center;">
+  <img src="imagenes\14.png" alt="Config Nano">
+</div>
+
+5. Is Number:
+
+<div style="text-align: center;">
+  <img src="imagenes\15.png" alt="Config Nano">
+</div>
+
+6. MayorCero:
+
+<div style="text-align: center;">
+  <img src="imagenes\16.png" alt="Config Nano">
+</div>
+
+Tambien tenemos la llamada a la función principal:
+
+<div style="text-align: center;">
+  <img src="imagenes\17.png" alt="Config Nano">
+</div>
