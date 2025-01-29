@@ -56,7 +56,7 @@ def calculadora():
 
     # Verificamos si los valores ingresados son números
     if not isNumber(num1) or not isNumber(num2):
-        print("Por favor, ingrese números válidos.")
+        print("Por favor, eso no son números!! Ingrese números válidos.")
         return  # Salimos de la función si los números no son válidos
 
     num1 = float(num1)
